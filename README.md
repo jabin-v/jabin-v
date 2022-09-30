@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jabin-v&label=Profile%20views&color=0e75b6&style=flat" alt="jabin-v" /> </p>
 
-- 🔭 I’m currently working on [music website](https://lyrics-musicplayer-2.netlify.app)
+- 🔭 I’m currently working on a full stack project using node js react prisma next js typescript graph ql
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
